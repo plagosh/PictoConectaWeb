@@ -1,0 +1,683 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Techt - IT Solutions & Services Company Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tw.foxcreation.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Studies",
+            "screenshot": "screenshots\/case-studies.jpg",
+            "source": "templates\/case-studies.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Detail",
+            "screenshot": "screenshots\/case-detail.jpg",
+            "source": "templates\/case-detail.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/case-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ's",
+            "screenshot": "screenshots\/faq-s.jpg",
+            "source": "templates\/faq-s.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header - ElementsKit",
+            "screenshot": "screenshots\/header-elementskit.jpg",
+            "source": "templates\/header-elementskit.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/header-elements-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer - ElementsKit",
+            "screenshot": "screenshots\/footer-elementskit.jpg",
+            "source": "templates\/footer-elementskit.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/footer-elementskit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form - MetForm",
+            "screenshot": "screenshots\/contact-form-metform.jpg",
+            "source": "templates\/contact-form-metform.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/contact-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe Form - MetForm",
+            "screenshot": "screenshots\/subscribe-form-metform.jpg",
+            "source": "templates\/subscribe-form-metform.json",
+            "preview_url": "https:\/\/tw.foxcreation.net\/techt\/template-kit\/subscribe-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.1.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.9.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "circuit-board-lines.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/circuit-board-lines-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/case-detail.json",
+                    "name": "Case Detail"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 53313,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "digital-technology-outline-isometric.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/digital-technology-outline-isometric-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 118661,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "cyane-technology-automation1.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/cyane-technology-automation1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 74118,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "clnt1.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/clnt1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5462,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clnt2.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/clnt2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 10470,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clnt3.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/clnt3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 3997,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clnt4.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/clnt4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4569,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "face-recognition-technology.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/face-recognition-technology-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 92546,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "man-utilizing-smart-bike1.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/man-utilizing-smart-bike1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 78410,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "Team1.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/Team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 234780,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "Team4.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/Team4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 132983,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "Team5.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/Team5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 120537,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "creative-team-brainstorming-new-solutions-2021-08-26-15-44-55-utc.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/creative-team-brainstorming-new-solutions-2021-08-26-15-44-55-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 248885,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "crm-notebook-and-planning-telemarketing-consultan-2022-12-07-22-11-22-utc.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/crm-notebook-and-planning-telemarketing-consultan-2022-12-07-22-11-22-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 191523,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "brainstorm-is-sometimes-the-best-solution-2021-08-26-20-15-53-utc.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/brainstorm-is-sometimes-the-best-solution-2021-08-26-20-15-53-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/case-detail.json",
+                    "name": "Case Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 275705,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "multicultural-young-businesspeople-discussing-new-2022-11-02-02-36-06-utc.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/multicultural-young-businesspeople-discussing-new-2022-11-02-02-36-06-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 256172,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "businessman-talking-on-cellphone-and-using-laptop-2022-09-22-18-46-49-utc.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/businessman-talking-on-cellphone-and-using-laptop-2022-09-22-18-46-49-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 190081,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "three-young-business-professionals-standing-togeth-2022-02-02-21-53-45-utc.jpg",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/three-young-business-professionals-standing-togeth-2022-02-02-21-53-45-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 236400,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "virtual-reality.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/virtual-reality-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 69226,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DYKVN2XUE"
+        },
+        {
+            "filename": "logo1.2.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/logo1.2.png",
+            "templates": [
+                {
+                    "source": "templates\/header-elementskit.json",
+                    "name": "Header - ElementsKit"
+                }
+            ],
+            "filesize": 4012,
+            "dimensions": [
+                307,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo2.1.png",
+            "thumbnail_url": "https:\/\/tw.foxcreation.net\/techt\/wp-content\/uploads\/sites\/6\/2022\/12\/logo2.1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-elementskit.json",
+                    "name": "Footer - ElementsKit"
+                }
+            ],
+            "filesize": 4012,
+            "dimensions": [
+                307,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
